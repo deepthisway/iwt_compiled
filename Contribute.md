@@ -9,7 +9,7 @@ Click the **Fork** button (top right corner) to create a copy of this repository
 
 ### 2. **Clone Your Fork**
 Use the command below to clone your forked repo to your local machine:
-```bash
+
 git clone [https://github.com/deepthisway/iwt_compiled.git]
 cd REPO-NAME
 
