@@ -35,9 +35,7 @@ Go to your fork on GitHub.
 Submit the PR to the main repository.
 
 🧾 Folder Structure
-bash
-Copy
-Edit
+```bash
 repo-root/
 ├── README.md
 ├── CONTRIBUTING.md
